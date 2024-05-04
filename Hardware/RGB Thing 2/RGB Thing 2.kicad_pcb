@@ -10,7 +10,7 @@
     (date "2024")
     (rev "0.0.0")
     (company "S. A. Miller")
-    (comment 1 "RGB Thing")
+    (comment 1 "RGB Thing ^2")
   )
 
   (layers
