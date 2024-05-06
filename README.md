@@ -9,7 +9,7 @@ Once the 3D printable Keystone housings are fully worked out, It'll be cool to h
 * **I2C Thing**
   * Baseline for I2C based designs
 * **ATTiny Thing**
-  * Baseline for designsa with a built-in MCU
+  * Baseline for designs with a built-in MCU
 * **RGB Thing**
   * Yay...  Blinkenlights!
 * **RGB Thing 2**
