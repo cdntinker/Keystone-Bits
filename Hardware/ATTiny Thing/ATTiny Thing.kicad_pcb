@@ -6083,7 +6083,7 @@
   (gr_text "${TITLE}" (at 97 94) (layer "F.SilkS") (tstamp 8f8a17ad-f916-4a78-bb43-ce9febaf1f38)
     (effects (font (size 0.9 0.9) (thickness 0.15)))
   )
-  (gr_text "${COMPANY}\n${ISSUE_DATE}" (at 89 105.5) (layer "F.SilkS") (tstamp cff83918-e6c7-4ece-b997-00fd340590bd)
+  (gr_text "${COMPANY}\n${ISSUE_DATE}" (at 89.25 105.5) (layer "F.SilkS") (tstamp cff83918-e6c7-4ece-b997-00fd340590bd)
     (effects (font (size 0.9 0.9) (thickness 0.15)))
   )
   (gr_text "GND\n3v3\nSDA\nSCL" (at 91.4908 100.0252) (layer "F.SilkS") (tstamp e1f49736-83bc-4e50-9c8e-270fc68326c1)
